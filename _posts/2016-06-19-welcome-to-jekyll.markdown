@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Eric G's site!"
 date:   2016-06-19 13:56:12 +0100
 categories: jekyll update
 ---
